@@ -14,5 +14,5 @@ We have historical data about order taxi in airport. We need predict how many or
 <img src="./files/BestModel.png" height="400">
 
 ## Files
-* russian version  
+* [russian version](predict-orders-taxi-russian.ipynb)
 * english version
