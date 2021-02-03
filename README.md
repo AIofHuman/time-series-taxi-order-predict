@@ -7,5 +7,12 @@ We have historical data about order taxi in airport. We need predict how many or
 * Time series analise
 <img src="./files/TimeSeriesAnalise.png" height="400">
 
+* Feature importance
+<img src="./files/FeatureImportance.png" height="400">
 
+* Select best model
+<img src="./files/BestModel.png" height="400">
 
+## Files
+* russian version  
+* english version
