@@ -15,4 +15,4 @@ We have historical data about order taxi in airport. We need predict how many or
 
 ## Files
 * [russian version](predict-orders-taxi-russian.ipynb)
-* english version
+* english version not ready
