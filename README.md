@@ -5,7 +5,7 @@ We have historical data about order taxi in airport. We need predict how many or
 
 ## Main features
 * Time series analise
-![TimeSeriesAnalise](https://github.com/AIofHuman/time-series-taxi-order-predict/files/TimeSeriesAnalise.png)
+<img src="./files/TimeSeriesAnalise.png" height="400">
 
 
 
