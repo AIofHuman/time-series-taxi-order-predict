@@ -3,6 +3,14 @@
 ## Description
 We have historical data about order taxi in airport. We need predict how many orders will next hour, to attract more drivers during rush hours. We have a metric limit RSME=48.  
 
+## Stack:
+* pandas
+* plotly
+* seaborn
+* scikit-learn
+* LightGBM
+
+
 ## Main features
 * Time series analise
 <img src="./files/TimeSeriesAnalise.png" height="400">
